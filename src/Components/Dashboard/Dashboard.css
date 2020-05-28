@@ -1,0 +1,37 @@
+.Ad-Triangle-Call-Widget-call-outer-div {
+    position: fixed;
+    bottom: 10px;
+    right: 40px;
+    border-radius: 50%;
+    border: 5px solid cadetblue;
+    padding: 10px;
+    color: cadetblue;
+    background: white;
+    z-index: 10000000;
+}
+
+
+
+.Ad-Triangle-Call-Widget-call-outer-div>i {
+    font-size: 35px;
+}
+
+.Ad-Triangle-Call-Widget-container {
+    position: fixed;
+    width: 200px;
+    border: 10px solid cadetblue;
+    bottom: 85px;
+    right: 40px;
+    border-radius: 5px;
+    padding: 10px;
+    background: white;
+    z-index: 10000000;
+}
+
+.Ad-Triangle-Call-Widget-colorDiv {
+    text-align: center;
+    position: fixed;
+    bottom: 30px;
+    right: 120px;
+    z-index: 10000000;
+}
